@@ -16,7 +16,3 @@ Renovate and organize the house so it is safe, functional, affordable, and ready
 ## Current Status
 
 The house has had major repairs completed, including roof work, siding, bug sealing, framing burned areas, doors, and floor planning. Current focus is finishing utilities, patching walls, flooring gaps, AC wiring, and making the house livable.
-
-## Safety Notes
-
-Do not upload private address details, account numbers, utility account info, or anything with personal documents visible.
